@@ -1,4 +1,3 @@
-layout_spectrum: 0.1933769341558218
 typography_spectrum: 0.6533272655215114
 color:
   brandStrength: 0.4184397617354989
@@ -6,9 +5,11 @@ color:
   saturation: 0.35440784553065896
   rhythmicContrast: 0.9561862582340837
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.1933769341558218
 name: Think Twice Mx
+title: Think Twice
